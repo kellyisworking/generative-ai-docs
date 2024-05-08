@@ -711,8 +711,8 @@ export interface AvatarVoice {
  */
 export const DEFAULT_AVATAR_VOICE = {
   'cloudTtsVoice': {
-    'languageCode': 'en-US',
-    'name': 'en-US-Wavenet-B',
+    'languageCode': 'en-GB',
+    'name': 'en-GB-Neural2-B',
     'ssmlGender': 'MALE',
     'naturalSampleRateHertz': 24000
   },
